@@ -1,21 +1,4 @@
 #EXTM3U
 
-# ---------- Europe ----------
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr" group-title="World News",Euronews English
-https://euronews-live.akamaized.net/hls/live/2033047/euronews-en/master.m3u8
-
-# ---------- United Nations ----------
-#EXTINF:-1 tvg-id="" group-title="World News",United Nations TV
-https://unott-vod.akamaized.net/live/playlist.m3u8
-
-# ---------- France ----------
-#EXTINF:-1 tvg-id="France24English.fr" group-title="World News",France 24 English
-https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
-
-# ---------- Deutsche Welle ----------
-#EXTINF:-1 tvg-id="DWEnglish.de" group-title="World News",DW English
-https://dwamdstream103.akamaized.net/hls/live/2015525/dwstream103/index.m3u8
-
-# ---------- NHK ----------
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="World News",NHK World Japan
-https://b-nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459-b/nhkwlive-ojp/index.m3u8
+#EXTINF:-1, NASA TV
+https://ntv1.akamaized.net/hls/live/2033701/NASA-TV-Public/master.m3u8
